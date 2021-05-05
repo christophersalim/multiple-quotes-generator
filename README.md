@@ -12,7 +12,7 @@ Sometimes, you feel demotivated and think you can't get through everything in li
 This is a multiple quotes generator made for a personal portfolio from Codecademy's course in Full Stack Development Learning Path (thanks Codecademy!). Every time you run it, you'll get three different quotes on 3 different aspects in life: gym or fitness, heartbreak, and learning, made personally for you! The outputs are randomised, therefore different runs will generate different quotes.
 
 ## How to Run
-1. Download this file and preferably put this folder in C:\Users\*Computer Name*\.
+1. Download this file and preferably put this folder in C:\Users\ **Computer Name** \.
 2. Download Notepad++ here (https://notepad-plus-plus.org/downloads/) if you don't want to download VS Code.
 3. Open script.js and edit line 26 with your own name.
 4. Install Node here (https://nodejs.org/en/download/). Skip to number 4 if you have done so before.
