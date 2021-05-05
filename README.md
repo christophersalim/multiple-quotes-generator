@@ -2,9 +2,9 @@
 > Created by Christopher Salim (2021)
 
 ## Table of Contents
-* General Info (#general-info)
-* How to Run (#how-to-run)
-* Future Improvements (#future-improvements)
+* [General Info](#general-info)
+* [How to Run](#how-to-run)
+* [Future Improvements](#future-improvements)
 
 ## General Info
 Sometimes, you feel demotivated and think you can't get through everything in life. Some other times, you may want to give up learning a course that seems to be in a dead end. Well, Multiple Quotes Generator is here to help you think better about life!
