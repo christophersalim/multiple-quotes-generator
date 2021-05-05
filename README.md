@@ -14,7 +14,7 @@ This is a multiple quotes generator made for a personal portfolio from Codecadem
 ## How to Run
 1. Download this file and preferably put this folder in C:\Users\ **Computer Name** \.
 2. Download Notepad++ here (https://notepad-plus-plus.org/downloads/) if you don't want to download VS Code.
-3. Open script.js and edit line 26 with your own name.
+3. Open script.js with either VS Code or Notepad++ and edit line 26 with your own name.
 4. Install Node here (https://nodejs.org/en/download/). Skip to number 4 if you have done so before.
 5. Make sure Node is already added in environment path on your desktop.
 6. Use your Windows Search and open Node.js command prompt.
